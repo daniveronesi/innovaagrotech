@@ -72,6 +72,12 @@
   
   background-image: url('./Pages/Home/fundoHome.svg');
   background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.podium {
+margin-left: 10%;
+
 }
 
 .drone {
